@@ -6,3 +6,5 @@ Steps to run the algo:
 Input data:
 This algo expects a text file of format:
 <(source)><\t><(destination)><\n>
+
+References: http://infolab.stanford.edu/~ullman/mmds/ch5.pdf
